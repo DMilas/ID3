@@ -1,0 +1,3 @@
+outlook	temp	humid	wind	play?
+sunny   hot high    weak    no
+sunny	hot	high	weak	yes
